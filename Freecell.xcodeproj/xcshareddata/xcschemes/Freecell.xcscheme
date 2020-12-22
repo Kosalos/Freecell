@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1DE0339F1B8838DB00C5E67F"
-               BuildableName = "Freecell.app"
+               BuildableName = "Free Cell.app"
                BlueprintName = "Freecell"
                ReferencedContainer = "container:Freecell.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1DE0339F1B8838DB00C5E67F"
-            BuildableName = "Freecell.app"
+            BuildableName = "Free Cell.app"
             BlueprintName = "Freecell"
             ReferencedContainer = "container:Freecell.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1DE0339F1B8838DB00C5E67F"
-            BuildableName = "Freecell.app"
+            BuildableName = "Free Cell.app"
             BlueprintName = "Freecell"
             ReferencedContainer = "container:Freecell.xcodeproj">
          </BuildableReference>
